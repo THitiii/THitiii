@@ -12,7 +12,7 @@ Who interested in Human health, programming, and technology. enjoy building proj
 
 ## 🛠️ Tools & Technologies
 
-`Python` `C#` `C` `VS Code` `Git & GitHub` `Blender` `Unity` `Figma`
+`Python` `C#` `C` `VS Code` `Git & GitHub` `Blender` `Unity` `Figma` `html` `CSS` `JavaScript`
 
 ---
 
